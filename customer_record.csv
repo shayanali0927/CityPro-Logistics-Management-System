@@ -1,0 +1,51 @@
+CustomerID,Name,Address,PriorityLevel,DeliveryStatus
+C01,Grace Chen,135 Cypress St,1,Delayed
+C02,Ray Moore,135 Cypress St,1,In Transit
+C03,Frank Wright,789 Pine Road,1,Delivered
+C04,Sara Green,432 Redwood Lane,5,Delayed
+C05,Tom Baker,987 Chestnut Ave,1,Delayed
+C06,Sara Green,135 Cypress St,1,In Transit
+C07,David Miller,579 Beech Way,2,Delivered
+C08,Charlie Smith,123 Elm Street,1,Delivered
+C09,Frank Wright,789 Pine Road,1,In Transit
+C10,David Miller,890 Cedar Way,3,Delayed
+C11,Mona Lewis,987 Chestnut Ave,2,Pending
+C12,Alice Johnson,432 Redwood Lane,3,In Transit
+C13,David Miller,135 Cypress St,2,Pending
+C14,Olivia Davis,802 Sycamore Lane,5,Pending
+C15,Henry Clark,321 Aspen Court,4,In Transit
+C16,Charlie Smith,890 Cedar Way,5,In Transit
+C17,Sara Green,789 Pine Road,5,Delayed
+C18,Queenie Zhang,791 Poplar Blvd,3,In Transit
+C19,Queenie Zhang,890 Cedar Way,1,Delivered
+C20,Jack White,680 Juniper St,1,Delivered
+C21,Mona Lewis,246 Palm Drive,2,In Transit
+C22,Ray Moore,357 Willow Ave,1,Delayed
+C23,Jack White,791 Poplar Blvd,1,Pending
+C24,Olivia Davis,234 Birch Blvd,4,Delayed
+C25,David Miller,246 Palm Drive,3,In Transit
+C26,Bob Lee,234 Birch Blvd,1,Delivered
+C27,Jack White,913 Magnolia Ct,5,Delivered
+C28,Nate Scott,357 Willow Ave,5,In Transit
+C29,Frank Wright,246 Palm Drive,2,Delivered
+C30,Queenie Zhang,432 Redwood Lane,5,Delayed
+C31,Charlie Smith,791 Poplar Blvd,2,Delayed
+C32,Alice Johnson,432 Redwood Lane,3,Delayed
+C33,Grace Chen,468 Fir Circle,2,Delayed
+C34,Isla Harris,456 Oak Lane,3,Delayed
+C35,Charlie Smith,357 Willow Ave,1,Pending
+C36,Shayan Ali,9154 Curtin Waters,3,Delivered
+C37,Frank Wright,678 Spruce Blvd,3,In Transit
+C38,Leo Adams,357 Willow Ave,2,Delayed
+C39,Isla Harris,456 Oak Lane,3,Delivered
+C40,Isla Harris,913 Magnolia Ct,4,Delayed
+C41,Bob Lee,432 Redwood Lane,5,In Transit
+C42,Charlie Smith,357 Willow Ave,1,In Transit
+C43,Queenie Zhang,890 Cedar Way,4,Pending
+C44,Queenie Zhang,468 Fir Circle,1,Delivered
+C45,Bob Lee,791 Poplar Blvd,5,Delivered
+C46,Frank Wright,234 Birch Blvd,5,Delayed
+C47,Frank Wright,135 Cypress St,3,Delivered
+C48,Tom Baker,468 Fir Circle,3,Delayed
+C49,David Miller,579 Beech Way,5,Delivered
+C50,Frank Wright,791 Poplar Blvd,1,Pending
