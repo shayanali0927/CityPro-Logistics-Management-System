@@ -17,6 +17,13 @@ CityPro Logistics Management System is a **Java-based application** designed to 
 - **Systems:** Linux, Bash Scripting  
 
 ## Installation & Usage
-1. Clone the repository:
+
+To run the system, follow these steps:
+
+1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/shayanali0927/citypro-logistics-system.git
+2. cd citypro-logistics-system
+3. Compile javac CityProLogistics.java
+4. java CityProLogistics
+
